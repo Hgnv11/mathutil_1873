@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.Hgnv11.util</groupId>
+    <artifactId>mathutil_1873</artifactId>
+    <version>67.89</version>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+
+<!--    day la noi khai bao cac thu vien can dung
+        nhung khai bao theo cu phap nao lam sao de tai lib ve va dung -->
+
+<!--    co mot tool cai theo netbean , ecli, inteliji giup khai bao tai ve ad vao pj tham chi dong goi va build app thanh .jar, .war
+        nen note.js do laf tool npm ,
+        c# do la nuget
+        java maven mvn-->
+
+
+
+    <dependencies>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.13.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+
+
+</project>
