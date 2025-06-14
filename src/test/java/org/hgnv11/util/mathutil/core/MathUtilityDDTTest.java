@@ -19,7 +19,6 @@ class MathUtilityDDTTest {
         return new Object[][]
                 {{0, 1}, {1, 1}, {2, 2}, {3, 6}, {4, 24}, {5, 120}, {6, 720}}; //n expected
     }
-
     @ParameterizedTest
     @MethodSource("initData")
     public void testFactorialGiveRightArgsRunWell(int n, long expected){
