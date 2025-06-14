@@ -7,6 +7,15 @@
 * A CI (Continuous integration) script to demonstrate CI technique using GitHub Actions
 * ....
 
+## Screen-shots
+
+### TDD,DDT test script with JUnit
+
+![TDD,DDT test with Junit](https://github.com/Hgnv11/mathutil_1873/blob/main/screenshorts/JUnit%20with%20TDD%20DDT.png)
+
+### Maven builder to build .jar file
+![Maven builder](https://github.com/Hgnv11/mathutil_1873/blob/main/screenshorts/Maven%20builder.png)
+
 ### Connect me via :  Hoangnvab@gmail.com
 
 #### &#169; 2025 Hgnv11
