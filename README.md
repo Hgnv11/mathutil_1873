@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2025 by Hgnv11](https://github.com/Hgnv11/mathutil_1873/actions/workflows/cirunner.yml/badge.svg)](https://github.com/Hgnv11/mathutil_1873/actions/workflows/cirunner.yml)
+
+
 # Welcome to math Utility Repository 
 
 ## You will find in this repo the following stuff:
